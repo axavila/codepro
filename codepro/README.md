@@ -43,6 +43,7 @@ The project is about an app to detect faces on photos, we use an API name Clarif
 [![website](./src/components/Logo/globe.png)](http://axdev.me#gh-dark-mode-only) Live Project
 
 
+
 How to use:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
