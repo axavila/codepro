@@ -36,3 +36,4 @@
 
 ---
 
+### <img align="left" alt="Visual Studio Code" width="26px" src="./src/components/Logo/blueprint.png" style="padding-right:10px;" />  Face Detection Project
