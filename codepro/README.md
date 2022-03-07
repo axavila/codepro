@@ -38,7 +38,7 @@
 
 ### <img align="left" alt="Visual Studio Code" width="26px" src="./src/components/Logo/blueprint.png" style="padding-right:10px;" />  Face Detection Project
 
-The project is about an app to detect faces on photos, we use an API name Clarifai to detect faces on each photo with FACE_DETECT_MODEL. We also create a Sign-In section where the user can register and keep track of their work. We create a Database on Postgres where we store user information all secure with bcrypt using hash and securing also the database name using environment variable so is not showing on the source code, to connect the database with use Knex on the Back-End. On the part of the API key, we also use the environment variable so the key is not showing up on the source code. The NodeJS app was deployed on Heroku and the Front-End app too so to connect with the Back-End with use Fetch. The database also was made on Heroku. The principal technology we use is ReactJS we create different components and then imported them to the app.js, we use react-router and state, and for the style, we use the Tychon package and react particles js. On the Back-End side, we use ExpressJS to connect the server with the Front-End, and to make the code more simple and clean we create controllers and then used them on the server.js file.
+The project is about an app to detect faces on photos, we use an API name Clarifai to detect faces on each photo with FACE_DETECT_MODEL. We also create a Sign-In section where the user can register and keep track of their work. We create a Database on Postgres where we store user information all secure with bcrypt using hash and securing also the database name using environment variable so is not showing on the source code, to connect the database with use Knex on the Back-End. On the part of the API key, we also use the environment variable so the key is not showing up on the source code. The NodeJS app was deployed on Heroku and the Front-End app too so to connect with the Back-End with use Fetch. The database also was made on Heroku. The principal technology we use is ReactJS we create different components and then imported them to the app.js, we use react-router and state, and for the style, we use the tachyons package and react particles js. On the Back-End side, we use ExpressJS to connect the server with the Front-End, and to make the code more simple and clean we create controllers and then used them on the server.js file.
 
 
 How to use:
@@ -87,7 +87,12 @@ To start with the project please follow the steps bellow:
 | npm create-react-app                 | It sets up your development environment so that you can use the latest JavaScript     |
 | npm install clarifai                 | install the necessary resource to use Clarifai API                                    |
 | npm install react-tilt               | tilt hover effect on React components                                                 |
-| npm install react-tsparticles        | Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website                               |
-| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
-| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
-| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
+| npm install react-tsparticles        | Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website                                |
+| npm install serve                    | Static file serving and directory listing                                             |
+| npm install tachyons                 | Functional CSS for humans                                                             |
+| npm install --save-dev nodemon       | nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. |
+| npm install bcrypt-nodejs            | The bcrypt library on NPM makes it really easy to hash and compare passwords in Node  |
+| npm install express                  | Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications                           |
+| npm install cors                     | The cors npm module provides middleware that you can use in your request handlers     |
+| npm install knex                     | A batteries-included SQL query & schema builder for PostgresSQL, MySQL, CockroachDB, MSSQL and SQLite3.                               |
+| npm install pg                       | PostgreSQL client for node.js                                                         |
