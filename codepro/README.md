@@ -42,7 +42,6 @@ The project is about an app to detect faces on photos, we use an API name Clarif
 
 
 How to use:
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 To start with the project please follow the steps bellow:
 - Clone this repo
