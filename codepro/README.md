@@ -96,3 +96,8 @@ To start with the project please follow the steps bellow:
 | npm install cors                     | The cors npm module provides middleware that you can use in your request handlers     |
 | npm install knex                     | A batteries-included SQL query & schema builder for PostgresSQL, MySQL, CockroachDB, MSSQL and SQLite3.                               |
 | npm install pg                       | PostgreSQL client for node.js                                                         |
+
+### Deployment
+
+The deployment was made on Heroku, the NodeJS app, the Postgres database and React app was connected to Heroku by git commands and CLI.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
