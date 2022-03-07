@@ -54,6 +54,7 @@ To start with the project please follow the steps bellow:
 > Folder structure options and naming conventions for software projects
 
 ### Top-level directory layout
+> Front-End
 
     .
     ├── node_modules              # Modules files
