@@ -37,3 +37,9 @@
 ---
 
 ### <img align="left" alt="Visual Studio Code" width="26px" src="./src/components/Logo/blueprint.png" style="padding-right:10px;" />  Face Detection Project
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To start with the project please follow the steps bellow:
+- Clone this repo
+- Run `npm install`
+- Run `npm start`
