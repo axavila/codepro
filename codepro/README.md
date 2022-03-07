@@ -47,7 +47,8 @@ To start with the project please follow the steps bellow:
 
 <br />
 
-Folder Structure Conventions
+
+ File structure of the project
 -
 
 > Folder structure options and naming conventions for software projects
