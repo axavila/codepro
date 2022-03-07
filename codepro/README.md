@@ -52,3 +52,14 @@ To start with the project please follow the steps bellow:
 -
 
 > Folder structure options and naming conventions for software projects
+
+### Top-level directory layout
+
+    .
+    ├── node_modules              # Modules files
+    ├── public                    # Manifest files
+    ├── src                       # Source files (alternatively `lib` or `app`)
+    ├── .gitignore                # Automated tests (alternatively `spec` or `tests`)
+    ├── package-lock.json
+    ├── package.json              # Library information
+    └── README.md
