@@ -78,3 +78,16 @@ To start with the project please follow the steps bellow:
     ├── package.json              # Library information
     ├── README.md                 
     └── server.js                 # Server connections
+
+
+
+### Dependencies
+| command                              | description                                                                           |
+| ------------------------------------ | ------------------------------------------------------------------------------------- |
+| npm create-react-app                 | It sets up your development environment so that you can use the latest JavaScript     |
+| npm install clarifai                 | install the necessary resource to use Clarifai API                                    |
+| npm install react-tilt               | tilt hover effect on React components                                                 |
+| npm install react-tsparticles        | Easily create highly customizable particles, confetti and fireworks animations and use them as animated backgrounds for your website                               |
+| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
+| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
+| teachcode showkeys        | Lists all the keys associated with the submitted tasks                                |
