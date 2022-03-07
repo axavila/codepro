@@ -100,4 +100,5 @@ To start with the project please follow the steps bellow:
 ### Deployment
 
 The deployment was made on Heroku, the NodeJS app, the Postgres database and React app was connected to Heroku by git commands and CLI.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
