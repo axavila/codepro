@@ -64,3 +64,13 @@ To start with the project please follow the steps bellow:
     ├── package-lock.json
     ├── package.json              # Library information
     └── README.md
+
+> Back-End
+
+    .
+    ├── controllers               # Controllers files
+    ├── node_modules              # Modules files   
+    ├── package-lock.json           
+    ├── package.json              # Library information
+    ├── README.md                 
+    └── server.js                 # Server connections
