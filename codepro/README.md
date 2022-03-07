@@ -38,6 +38,7 @@
 
 ### <img align="left" alt="Visual Studio Code" width="26px" src="./src/components/Logo/blueprint.png" style="padding-right:10px;" />  Face Detection Project
 
+The project is about an app to detect faces on photos, we use an API name Clarifai to detect faces on each photos with FACE_DETECT_MODEL. We also create a Sign-In section where the user can register and keep track of there work.
 How to use:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 To start with the project please follow the steps bellow:
