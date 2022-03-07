@@ -45,6 +45,7 @@ To start with the project please follow the steps bellow:
 - Run `npm install`
 - Run `npm start`
 
+<br />
 Folder Structure Conventions
 -
 
