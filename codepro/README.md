@@ -13,7 +13,7 @@
 
 [![website](./src/components/Logo/globe.png)](http://axdev.me#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./src/components/Logo/linkedin.png)](linkedin.com/in/axel-fernando-ávila-fernandez-817b03a7)
+[![website](./src/components/Logo/linkedin.png)](https://www.linkedin.com/in/axel-fernando-%C3%A1vila-fernandez-817b03a7/)
 
 
 ### Languages and Tools:
